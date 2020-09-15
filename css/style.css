@@ -1,0 +1,131 @@
+/* reset */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+ol li,
+ul li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+/* reset */
+
+.header__link {
+	color: darkblue;
+}
+.witcher {
+	color: orange;
+}
+.main > .title {
+	color: green;
+}
+.about__text a {
+	color: steelblue;
+}
+.about__residents .race,
+.race {
+	color: yellowgreen;
+}
+.about__residents .monsters,
+.monsters {
+	color: red;
+}
+.spheres {
+	color: goldenrod;
+}
+.mythicals {
+	color: green;
+}
+.translate,
+.rus {
+	color: blue;
+}
+body main .writer {
+	color: gold;
+}
+.state {
+	color: slategrey;
+}
+.state span {
+	color: black;
+}
+.state__name {
+	color: navy;
+}
+.race {
+	color: yellowgreen;
+}
+.about__title {
+	color: midnightblue;
+}
+.state__img + p.last {
+	color: peru;
+}
+.books li span {
+	color: blue;
+}
+.books li {
+	color: red;
+}
+.books .year {
+	color: black;
+}
+.games span.pln {
+	color: red;
+}
+.game {
+	color: blue;
+}
+
+.films__name,
+.films h2 {
+	color: tomato;
+}
+footer div {
+	color: rgba(0, 0, 0, 0.4);
+}
+
+.wildhunt {
+	color: sienna;
+}
+.wildhunt p + p {
+	color: chocolate;
+}
+.wildhunt div {
+	color: coral;
+}
+
+.wildhunt div span {
+	color: crimson;
+}
+.wildhunt span.game {
+	color: blue;
+}
+
+#best {
+	color: blue;
+}
+b {
+	color: red;
+}
